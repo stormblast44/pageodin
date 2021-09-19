@@ -13,12 +13,15 @@ h1 {
 }
 
 .header-container div {
+    font-size:18px;
     flex: 1;
+    color:#E5E7EB
 
     
 }
 
 .main {
+    font-size:48px;
     font-weight: bolder;
     color:#F9FAF8;
     margin-left: 180px;
