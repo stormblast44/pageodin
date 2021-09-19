@@ -1,0 +1,33 @@
+body {
+    background-color: #1F2937;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 180px;
+}
+
+.header-container {
+    display:flex;
+}
+
+.header-container div {
+    flex: 1;
+
+    
+}
+
+.main {
+    font-weight: bolder;
+    color:#F9FAF8;
+    margin-left: 180px;
+    margin-top: 100px;
+
+}
+
+p {
+    font-size: 18px;
+    color:#E5E7EB;
+    margin-left: 180px;
+}
