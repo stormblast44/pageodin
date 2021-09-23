@@ -3,22 +3,11 @@ body {
 }
 
 .frame {
-    display: flex;
-    justify-content: center;
 }
-
-.header {
-    display: flex;
-    justify-content: space-between;
     align-items: center;
-}
-
-#hero {
     display:flex;
     justify-content: space-between;
     align-items: center;
 }
-.headerlogo {
     color:white
     font-size: 24px;
-}
